@@ -1,0 +1,7 @@
+{
+    "orig_folder": "matricesFull/paper_10s_3samples_haurwitz_conCSK",
+    "der_folder": "matricesTrainTest/paper_10s_3samples_haurwitz/derivative",
+    "dest_folder": "matricesTrainTest/paper_10s_3samples_haurwitz_conCSK",
+    "scores_threshold": 1,
+    "derivative": 0
+}
